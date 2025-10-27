@@ -1,0 +1,10 @@
+check git branches: 
+
+-> git branch
+
+Add new branch:
+-> git branch login-system
+
+Switch to branch:
+-> git checkout login-system
+
