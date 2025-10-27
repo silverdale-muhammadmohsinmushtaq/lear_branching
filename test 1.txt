@@ -8,3 +8,7 @@ Add new branch:
 Switch to branch:
 -> git checkout login-system
 
+
+Merge the branch:
+-> git merge login-system
+
